@@ -1,0 +1,22 @@
+{
+	"ret": true,
+	"data":{
+		"girl":[
+			{
+				"id": 1,
+				"name": "上衣",
+				"imgSrc": "http://img12.360buyimg.com/focus/s140x140_jfs/t13357/141/724977729/3459/e3a3c8e1/5a127ee9Nbc443a5f.jpg"
+			},
+			{
+				"id": 2,
+				"name": "短外套",
+				"imgSrc": "http://img12.360buyimg.com/focus/s140x140_jfs/t16960/330/672781171/5066/76e6f8c9/5a9fbfdcNc891be87.jpg"
+			},
+			{
+				"id": 3,
+				"name": "百搭衬衫",
+				"imgSrc": "http:////img14.360buyimg.com/focus/s140x140_jfs/t16126/212/2272437372/3302/c9af3547/5a9fbfa0N591929da.jpg"
+			}
+		]
+	}
+}

@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/home/main",
+    "pages/class/main",
+    "pages/shopCar/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor": "#EA5149",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/main",
+        "iconPath": "static/img/首页.png",
+        "selectedIconPath": "static/img/首页.png"
+      },
+      {
+        "text": "分类",
+        "pagePath": "pages/class/main",
+        "iconPath": "static/img/分类.png",
+        "selectedIconPath": "static/img/分类.png"
+      },
+      {
+        "text": "购物车",
+        "pagePath": "pages/index/main",
+        "iconPath": "static/img/购物车.png",
+        "selectedIconPath": "static/img/购物车.png"
+      },
+      {
+        "text": "个人中心",
+        "pagePath": "pages/home/main",
+        "iconPath": "static/img/我的.png",
+        "selectedIconPath": "static/img/我的.png"
+      }
+    ]
+  }
+}
